@@ -51,7 +51,7 @@ You can download the road network from [OpenStreetMap](https://www.openstreetmap
 Besides, since we adopts the hub labeling algorithm for the shortest path query, we need to use algorithm in [link](https://github.com/BUAA-BDA/sspexp_clone) to preprocess the road network.
 
 ## Requests and Workers
-You can apply for the requests data of `Chengdu` on [Didi Gaia Platform](https://outreach.didichuxing.com/research/opendata/) 
+You can apply for the requests data of `Chengdu` from [here](https://drive.google.com/drive/folders/1JNRaKONpwoE-YxDm5Lq3YMMcxwlwtdBH?usp=sharing).
 and download the yellow and green taxi data from the official website of [New York City](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page).
 
 
